@@ -125,19 +125,109 @@
     padding-left: 155px;
 }
 .div-one{
-    height: 450px;
     flex-shrink: 0;
     border-radius: 16px;
-    text-align: center;
-    /* display: flex; */
     gap: 24px;
+    text-align: center;
 }
-.div-two{
-    height: 450px;
+#featured-three{
+    text-align: center;
+    width: 1320px;
+    height: 616px;
     flex-shrink: 0;
     border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+.group{
+    padding: 100px;
+}
+.group-img{
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+}
+.color-five{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.test-style-four{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 10px;
+}
+.box-one{
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+    width: 648px;
+    height: 72px;
+    border-radius: 0px 0px 0px 50px;
+}
+.box-two{ 
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    border: none;
+    background-color: #F00;
+    border-radius: 0px 50px 0px 0px;
+}
+.fooder-head{
+    background: #190a38;
+}
+.footer-one{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    display: flex;
+    background-color: #190a38;
+    margin-top: 70px;
+    height: 200px;
+}
+.footer-two{
+    color: #FFF;
+    font-family: Inter;
+    height: 150px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    display: flex;
+    background-color: #190a38;
+    margin-bottom: 10px;
+}
+.Photo-two{
+    display: flex;
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
     text-align: center;
-    gap: 24px;
+}
+.line{
+    width: 1320px;
+    height: 1px;
+    background: slategray;
+    background-color: #190a38;
 }
 
 
