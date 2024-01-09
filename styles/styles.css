@@ -94,6 +94,98 @@
     flex-shrink: 0;
     padding-right: 100px;
 }
+.partty{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background-color: beige;
+    border-radius: 15px;
+    margin-top: 70px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.red-mama{
+    color: #F00;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.black-mama{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.butt-hero{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+    display: inline-flex;
+    padding: 13px 26px;
+    justify-content: center;
+    gap: 10px;
+}
+.mama{
+    padding-top: 100px;
+}
+.bunnas{
+    width: 1320px;
+    height: 443px;
+    background-color: #FFF;
+    margin: 70px, auto, 70px, auto;
+    display: flex;
+}
+.red-mama-two{
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    color: #F00;
+}
+.black-mama-two{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.cute-mama{
+    font-family: Inter;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.red-six{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 100px ;
+}
+.img-one{
+    border-radius: 50%;
+    padding: 25px;
+    border: 5px solid red;
+}
+.img-two{
+    padding-top: 8%
+}
 #featured-two{
     margin: 70px auto 70px auto;
     width: 1600px;
@@ -189,8 +281,8 @@
     background-color: #F00;
     border-radius: 0px 50px 0px 0px;
 }
-.fooder-head{
-    background: #190a38;
+.fooder-cool{
+    background-color: #190a38;
 }
 .footer-one{
     color: #FFF;
@@ -200,7 +292,6 @@
     font-weight: 500;
     line-height: 40px;
     display: flex;
-    background-color: #190a38;
     margin-top: 70px;
     height: 200px;
 }
@@ -213,7 +304,6 @@
     font-weight: 500;
     line-height: 40px;
     display: flex;
-    background-color: #190a38;
     margin-bottom: 10px;
 }
 .Photo-two{
@@ -222,12 +312,13 @@
     height: 64px;
     flex-shrink: 0;
     text-align: center;
+    height: 100px;
 }
 .line{
     width: 1320px;
     height: 1px;
     background: slategray;
-    background-color: #190a38;
+    
 }
 
 
