@@ -1,0 +1,348 @@
+*{
+    margin: auto;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+}
+.banner-title{
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+    padding: 160px
+}
+.banner-title > .banner-text{
+    font-weight:normal;
+    font-size: 30px;
+    font-weight: 400;
+}
+.header{
+    width: 69%;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background-image: linear-gradient(#070211);
+    background-image: url('../Banner\ Image.png');
+    background-blend-mode: multiply;
+}
+#featured{
+    text-align: center; 
+    font-style: normal;
+    background-color: #FFF;
+    margin: 70px auto 70px auto;
+}
+.color-red{
+    color:#F00;
+    font-size: 88px;
+    font-weight: 700;
+}
+.Color-two{
+    color: #F00;
+    font-weight: 500;
+    font-size: 24px;
+    padding-top: 50px;
+}
+.color-three{
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+    padding: 5px;
+    padding-bottom: 50px
+}
+#banner-two{
+    background-image: url('../Vectorrr.png');
+    width: 69%;
+    border-radius: 30px;
+    display: flex;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+}
+.test-style{
+    color: #FFF;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 50px;
+    letter-spacing: 7.04px;
+    padding-left: 50px;
+}
+.test-style-two{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 50px 50px;
+}
+.butt{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 100px;
+    border: none;
+    text-transform: uppercase;
+}
+.Photo-one{
+    width: 319.83px;
+    height: 464.662px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    padding-right: 100px;
+}
+.partty{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background-color: beige;
+    border-radius: 15px;
+    margin-top: 70px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.red-mama{
+    color: #F00;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.black-mama{
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.butt-hero{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background: #F00;
+    border: none;
+    display: inline-flex;
+    padding: 13px 26px;
+    justify-content: center;
+    gap: 10px;
+}
+.mama{
+    padding-top: 100px;
+}
+.bunnas{
+    width: 1320px;
+    height: 443px;
+    background-color: #FFF;
+    margin: 70px, auto, 70px, auto;
+    display: flex;
+}
+.red-mama-two{
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    color: #F00;
+}
+.black-mama-two{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.cute-mama{
+    font-family: Inter;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.red-six{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 100px ;
+}
+.img-one{
+    border-radius: 50%;
+    padding: 25px;
+    border: 5px solid red;
+}
+.img-two{
+    padding-top: 8%
+}
+#featured-two{
+    margin: 70px auto 70px auto;
+    width: 1600px;
+    background-color: #FFF;
+}
+.color-red-one{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    padding-left: 145px;
+}
+.color-four{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-left: 149px;
+}
+.test-style-three{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-left: 155px;
+}
+.div-one{
+    flex-shrink: 0;
+    border-radius: 16px;
+    gap: 24px;
+    text-align: center;
+}
+#featured-three{
+    text-align: center;
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+.group{
+    padding: 100px;
+}
+.group-img{
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+}
+.color-five{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.test-style-four{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 10px;
+}
+.box-one{
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+    width: 648px;
+    height: 72px;
+    border-radius: 0px 0px 0px 50px;
+}
+.box-two{ 
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    border: none;
+    background-color: #F00;
+    border-radius: 0px 50px 0px 0px;
+}
+.fooder-cool{
+    background-color: #190a38;
+}
+.footer-one{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    display: flex;
+    margin-top: 70px;
+    height: 200px;
+}
+.footer-two{
+    color: #FFF;
+    font-family: Inter;
+    height: 150px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    display: flex;
+    margin-bottom: 10px;
+}
+.Photo-two{
+    display: flex;
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    text-align: center;
+    height: 100px;
+}
+.line{
+    width: 1320px;
+    height: 1px;
+    background: slategray;
+    
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
